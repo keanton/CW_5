@@ -1,4 +1,4 @@
-from data import utils as functions, classes as scripts
+from src import utils as functions, classes as scripts
 import os
 from dotenv import dotenv_values
 cycle = True
